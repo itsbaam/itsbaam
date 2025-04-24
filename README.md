@@ -43,7 +43,6 @@ Software Engineer currently working as a Full Stack Developer on SaaS solutions,
 
 ## 🌱 Outside Code
 
-<p>
-  <img align="left" src="https://media.giphy.com/media/l2Jee7fAGkBmmlsm4/giphy.gif" alt="Sailing gibberish" height="160"/> <img align="center" src="https://readme-jokes.vercel.app/api?theme=blueberry&hideBorder" alt="Jokes Card" /> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI1a2lhNjQybmxlYWV2bHh5MTk0ajU5ZWJ6NnlvOHhqMDI5aWRzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QnMJm9bVR9nDa/giphy.gif" alt="Smiling Jim" height="220"/>
-  <p align="left">I enjoy quiet learning, hiking, and sailboats.</p>
-</p>
+<div>
+  <p align="left"> <img align="left" src="https://media.giphy.com/media/l2Jee7fAGkBmmlsm4/giphy.gif" alt="Sailing gibberish" height="160"/> <p align="left">I enjoy quiet learning, hiking, and sailboats.</p></p> <p align="right"> <img align="center" src="https://readme-jokes.vercel.app/api?theme=blueberry&hideBorder" alt="Jokes Card" /> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI1a2lhNjQybmxlYWV2bHh5MTk0ajU5ZWJ6NnlvOHhqMDI5aWRzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QnMJm9bVR9nDa/giphy.gif" alt="Smiling Jim" height="220"/></p>
+</div>
