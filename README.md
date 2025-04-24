@@ -9,7 +9,7 @@
 Software Engineer currently working as a Full Stack Developer on SaaS solutions, using Vue.js, Django, Node.js, and AWS.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsbaam&show_icons=true&include_all_commits=true&theme=transparent" alt="itsbaam github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsbaam&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="itsbaam github stats" />
 </p>
 
 ---
