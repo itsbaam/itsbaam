@@ -15,10 +15,10 @@ Software Engineer currently working as a Full Stack Developer on SaaS solutions,
 ---
 
 ## 🛠️ Languages & Tools
-
-**Frontend:** Vue.js · Nuxt.js · Vuetify  
-**Backend:** Django · Node.js  
+  
+**Backend:** Javascript | Node.js · Go · Python | Django
 **Cloud:** AWS · Serverless Framework
+**Frontend:** Vue.js · Nuxt.js · Vuetify
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="35" height="35"/>
