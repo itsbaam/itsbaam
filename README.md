@@ -8,26 +8,29 @@
 
 Software Engineer currently working as a Full Stack Developer on SaaS solutions, using Vue.js, Django, Node.js, and AWS.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsbaam&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="itsbaam github stats" />
-</p>
+</p> -->
 
 ---
 
 ## Languages & Tools
   
-**Backend:** Javascript | Node.js · Go · Python | Django
-**Cloud:** AWS · Serverless Framework
+**Backend:** TypeScript | Node.js · Go · Python | Django REST Framework  
+**Cloud:** AWS · Serverless Framework  
+**DevOps:** Docker  
 **Frontend:** Vue.js · Nuxt.js · Vuetify
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="Serverless" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="35" height="35" style="margin-right:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="35" height="35" style="margin-right:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" style="margin-right:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35" style="margin-right:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35" style="margin-right:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="Serverless" width="35" height="35" style="margin-right:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="35" height="35" style="margin-right:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg" alt="Django REST" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="35" height="35" />
 </p>
 
 ---
