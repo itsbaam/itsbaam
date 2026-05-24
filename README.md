@@ -18,8 +18,8 @@ Software Engineer currently working as a Full Stack Developer in a team of Data 
   
 **Backend:** TypeScript | Node.js · Go · Python | Django REST Framework  
 **Cloud:** AWS · Serverless Framework  
-**DevOps:** Docker  
-**Frontend:** Vue.js · Nuxt.js · Vuetify
+**DevOps:** Docker · Kubernetes
+**Frontend:** React · React Native · Vue.js · Nuxt.js · Vuetify
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="35" height="35" style="margin-right:8px;" />
