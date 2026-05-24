@@ -6,7 +6,7 @@
 
 ## About Me
 
-Software Engineer currently working as a Full Stack Developer on SaaS solutions, using Vue.js, Django, Node.js, and AWS.
+Software Engineer currently working as a Full Stack Developer in a team of Data Scientists, Data Engineers and Machine Learning Engineers.
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsbaam&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="itsbaam github stats" />
