@@ -35,13 +35,13 @@ Software Engineer currently working as a Full Stack Developer in a team of Data 
 
 ---
 
-## Current Focus
+<!--## Current Focus
 
 - Refining foundations: Data Structures & Algorithms, Design Patterns, and System Design, etc  
 - Strengthening backend architecture and scalability practices  
 - Studying DevOps fundamentals and CI/CD pipelines  
 - Learning about secure software development and cloud security principles
-
+-->
 ---
 
 ## Outside Code
